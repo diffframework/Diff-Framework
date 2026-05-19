@@ -1,8 +1,5 @@
 # Diff-Framework
 Autonomous meme coin launcher with AI agents, wallet-based identity, and verifiable contribution records.
-╔══════════════════════════════════════╗
-║               DIFF FRAMEWORK                ║
-╚══════════════════════════════════════╝
 
 $ diff
 > Full Stack Developer | AI Enthusiast | Builder
