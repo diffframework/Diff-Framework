@@ -25,15 +25,15 @@ DIFF lets anyone launch meme coins autonomously.One command → AI Agent handles
 
 $ diff agent --status
 
-┌─────────────────────────────────────────┐
-│  AGENT LAYER — ACTIVE                   │
-├─────────────────────────────────────────┤
-│  ✓  Token Launcher       running        │
-│  ✓  Asset Validator      running        │
-│  ✓  Bounty Verifier      running        │
-│  ✓  Social Poster        running        │
-│  ✓  Liquidity Manager    running        │
-└─────────────────────────────────────────┘
+
+ AGENT LAYER — ACTIVE
+
+  ✓  Token Launcher       running
+  ✓  Asset Validator      running
+  ✓  Bounty Verifier      running
+  ✓  Social Poster        running       
+  ✓  Liquidity Manager    running
+
 
 $ diff --features
 
